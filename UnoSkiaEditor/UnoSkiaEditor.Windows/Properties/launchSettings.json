@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UnoSkiaEditor.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
